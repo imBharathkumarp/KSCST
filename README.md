@@ -95,11 +95,5 @@ pnpm dev
 # Open in browser
 http://localhost:3000
 ```
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo, open issues, or submit pull requests.
 
 ---
