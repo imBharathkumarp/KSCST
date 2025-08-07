@@ -4,12 +4,6 @@ A modern web application built with **Next.js**, **TypeScript**, and **Tailwind 
 
 ---
 
-## 📸 Demo
-
-> 🖼️ _Include a screenshot or GIF here showing the live train map or dashboard (optional)._
-
----
-
 ## ⚙️ Tech Stack
 
 - **Frontend Framework:** [Next.js](https://nextjs.org/) (App Router)
