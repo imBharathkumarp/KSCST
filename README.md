@@ -73,20 +73,24 @@ Railway_Safety_System/
 
 ### 📦 Installation
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/your-username/railway-safety-system.git
-
+```
 # Navigate into the project folder
+```bash
 cd Railway_Safety_System
-
+```
 # Install dependencies
+```bash
 pnpm install
-
+```
 # Start the development server
+```bash
 pnpm dev
-
+```
 # Open in browser
+```bash
 http://localhost:3000
 ```
 
